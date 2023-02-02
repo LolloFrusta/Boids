@@ -1,0 +1,13 @@
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\Boids.exe.config
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\Boids.exe
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\Boids.pdb
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\aiv-fast2d.dll
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\OpenTK.dll
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\OpenTK.pdb
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\OpenTK.xml
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\obj\Debug\Boids.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\obj\Debug\Boids.csproj.CopyComplete
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\obj\Debug\Boids.exe
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\obj\Debug\Boids.pdb
+C:\Users\Utente\Desktop\AIV\Consegne\Boids\Boids\bin\Debug\Assets\boid.png
